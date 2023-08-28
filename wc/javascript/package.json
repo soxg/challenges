@@ -1,0 +1,14 @@
+{
+  "name": "wc-js",
+  "version": "1.0.0",
+  "description": "Unix command line tool wc in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ccwc": "./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
